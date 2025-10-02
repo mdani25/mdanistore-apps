@@ -3,16 +3,20 @@
   "lastUpdated": "2025-10-02T00:00:00Z",
   "apps": [
     {
-      "id": "com.example.calculator",
-      "name": "Simple Calculator",
-      "version": "2.1.0",
-      "description": "A clean and simple calculator app",
-      "iconUrl": "https://raw.githubusercontent.com/yourusername/mdanistore-apps/main/icons/calculator.png",
-      "apkUrl": "https://github.com/yourusername/mdanistore-apps/releases/download/calculator-v2.1.0/calculator-v2.1.0.apk",
-      "packageName": "com.example.calculator",
+      "id": "com.mdani.calculator",
+      "name": "MDani Calculator",
+      "version": "1.0.0",
+      "description": "A clean and simple calculator app with basic arithmetic operations and a beautiful Material Design interface.",
+      "iconUrl": "https://raw.githubusercontent.com/mdani25/mdanistore-apps/main/icons/calculator.png",
+      "apkUrl": "https://github.com/mdani25/mdanistore-apps/releases/download/v1.0.0/MDaniCalculator.apk",
+      "packageName": "com.mdani.calculator",
       "size": "4.2 MB",
       "minAndroidVersion": "21",
-      "category": "Productivity"
+      "category": "Productivity",
+      "screenshots": [
+        "https://raw.githubusercontent.com/mdani25/mdanistore-apps/main/screenshots/calculator1.png"
+      ],
+      "changelog": "- Initial release\n- Basic arithmetic operations\n- Clean Material Design interface"
     }
   ]
 }
