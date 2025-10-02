@@ -1,0 +1,18 @@
+{
+  "storeVersion": "1.0.0",
+  "lastUpdated": "2025-10-02T00:00:00Z",
+  "apps": [
+    {
+      "id": "com.example.calculator",
+      "name": "Simple Calculator",
+      "version": "2.1.0",
+      "description": "A clean and simple calculator app",
+      "iconUrl": "https://raw.githubusercontent.com/yourusername/mdanistore-apps/main/icons/calculator.png",
+      "apkUrl": "https://github.com/yourusername/mdanistore-apps/releases/download/calculator-v2.1.0/calculator-v2.1.0.apk",
+      "packageName": "com.example.calculator",
+      "size": "4.2 MB",
+      "minAndroidVersion": "21",
+      "category": "Productivity"
+    }
+  ]
+}
